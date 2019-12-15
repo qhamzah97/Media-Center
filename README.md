@@ -1,6 +1,10 @@
 # Media-Center
 Media Center created on Keil MCB 1700 microcontroller with an image gallery, media player and game center option
 
+Image Gallery - Contains 5 images that the user can switch through
+Music Player - Allows user to stream audio from a computer connected to the board, with a potentiometer being used to adjust volume
+Gmae Center - Contains 3 different games (Tic-Tac-Toe, Rock-Paper-Scissors, and Even-or-Odd
+
 The Media Center project is a simple program for the NXP 'LPC1768' 
 microcontroller using Keil 'MCB1700' evaluation board and 
 demonstrating interrupt functionality and display to graphic LCD.
